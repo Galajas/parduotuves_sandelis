@@ -1,2 +1,2 @@
 <?php
-echo 'Veikia';
+echo 'Veikia parduotuve';
